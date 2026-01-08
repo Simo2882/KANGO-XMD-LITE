@@ -16,12 +16,12 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "𖣘••𝙼𝙸𝙺𝙴𝚈••𖣘",
       "value": "𖣘••𝙼𝙸𝙺𝙴𝚈••𖣘",
-      "required": false
+      "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "79294136448",
       "value": "79294136448",
       "required": true
     },
@@ -33,12 +33,12 @@
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
       "value": "𖣘••𝙼𝙸𝙺𝙴𝚈••𖣘",
-      "required": false
+      "required":true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
       "value": "𖣘••𝙼𝙸𝙺𝙴𝚈••𖣘",
-      "required": false
+      "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Enter heroku API key here",
